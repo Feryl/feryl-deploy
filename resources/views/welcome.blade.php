@@ -60,7 +60,7 @@
 						class="max-h-[300px] overflow-hidden object-cover object-center"
 						>
 							<img
-								src="{{ asset('images/' . $food->image) }}"
+								src="{{ asset('storage/images/products/' . $food->image) }}"
 								alt=""
 								class="w-full h-full"
 							/>
