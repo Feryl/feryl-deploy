@@ -106,7 +106,7 @@
 							/>
 						</div>
 						<div>
-							<p class="font-bold text-[#404040]">Feryl</p>
+							<p class="font-bold text-[#404040]">Muh Feryl</p>
 							<p class="text-sm font-semibold text-[#565656]">إيمان</p>
 						</div>
 					</div>
